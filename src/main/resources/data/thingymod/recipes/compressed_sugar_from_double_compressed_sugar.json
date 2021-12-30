@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "thingymod:double_compressed_sugar"
+		}
+	],
+	"result": {
+		"item": "thingymod:compressed_sugar",
+		"count": 9
+	}
+}

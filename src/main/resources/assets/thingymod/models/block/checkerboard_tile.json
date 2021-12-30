@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "thingymod:block/checkerboard_tile"
+	}
+}

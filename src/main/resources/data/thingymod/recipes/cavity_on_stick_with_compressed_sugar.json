@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###",
+		" I "
+	],
+	"key": {
+		"#": {
+			"item": "thingymod:compressed_sugar"
+		},
+		"I": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "thingymod:cavity_on_stick",
+		"count": 6
+	}
+}

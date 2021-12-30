@@ -1,0 +1,15 @@
+{
+	"item.thingymod.derp_duck": "Derp-a-Duck",
+	"item.thingymod.rubber_duck": "Rubber Duck",
+	"item.thingymod.compressed_sugar": "Compressed Sugar",
+	"item.thingymod.double_compressed_sugar": "Double-Compressed Sugar",
+	"item.thingymod.cavity_on_stick": "Lollipop",
+
+	"block.thingymod.crate": "Crate",
+	"block.thingymod.checkerboard_tile": "Checkerboard Tile",
+
+	"itemGroup.thingymod.thingamabobs": "Thingamabobs",
+
+	"tooltip.thingymod.rubber_duck": "Press §e§o[SHIFT]§r for more information",
+	"tooltip.thingymod.rubber_duck_shift": "The Rubber Duck is a programmer's best friend"
+}

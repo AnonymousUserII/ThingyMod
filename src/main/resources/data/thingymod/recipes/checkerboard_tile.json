@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BW",
+		"WB"
+	],
+	"key": {
+		"B": {
+			"tag": "c:dye_black"
+		},
+		"W": {
+			"tag": "c:quartz"
+		}
+	},
+	"result": {
+		"item": "thingymod:checkerboard_tiled"
+	}
+}
